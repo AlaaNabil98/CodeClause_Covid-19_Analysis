@@ -7,7 +7,7 @@ Since its initial identification in December 2019 in Wuhan, China, the COVID-19 
 This [dataset](https://www.kaggle.com/datasets/josephassaker/covid19-global-dataset) was obtained by Joseph Assaker and scraped from worldometers.info on May 14th, 2022. The data includes records from 225 countries, spanning from January 22nd, 2020 to May 14th, 2022.
 
 ## Features:
-### [The COVID-19 analytical dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDQ5NzUzOTgtMzNiZC00MGVlLThkZTktOGU5NWJhZTg2YTRiIiwidCI6ImM5OWNlNTA0LTU3MDEtNGUwYS1iNDVjLWJiMzc0M2EyMmUyZCJ9) provides the following features:
+### The COVID-19 analytical dashboard provides the following features:
 
 - Cumulative and daily statistics on confirmed cases, deaths, and recoveries.
 - Identification of the top 5 countries most impacted by COVID-19 on a given date.
